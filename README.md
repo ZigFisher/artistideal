@@ -1,6 +1,6 @@
+![ArtistIdeal logo][logo]
 
-
-## ![ArtistIdeal logo][logo] ArtistIdeal
+##  ArtistIdeal
 
 ### Chi siamo
 
