@@ -1,8 +1,8 @@
 ![ArtistIdeal logo][logo]
 
-## ArtistIdeal
+# ArtistIdeal
 
-### Chi siamo
+## Chi siamo
 
 Il nostro laboratorio si dedica alla creazione di statue uniche ed esclusive, caratterizzate da uno stile raro e distintivo, realizzate in varie dimensioni.
 La nostra abilità artistica è stata riconosciuta persino dal Principe Alberto di Monaco, tanto che il Principato ha acquistato alcune delle nostre statuine, apprezzandone l'originalità e la rarità.
@@ -19,4 +19,4 @@ Infatti, ogni artista infonde in ciascuna opera ciò che l'occhio umano non perc
 Solo chi sa riflettere, osservare, pensare, amare e apprezzare può interpretare e trasmettere nell'arte tali sentimenti...
 
 
-[logo]: https://images.opencollective.com/artistideal/cac7ce0/logo/256.png?height=64
+[logo]: https://images.opencollective.com/artistideal/cac7ce0/logo/256.png?height=128
