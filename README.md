@@ -18,5 +18,8 @@ Ogni statuina richiede un processo di lavorazione lungo, paziente e laborioso, c
 Infatti, ogni artista infonde in ciascuna opera ciò che l'occhio umano non percepisce immediatamente.
 Solo chi sa riflettere, osservare, pensare, amare e apprezzare può interpretare e trasmettere nell'arte tali sentimenti...
 
+### Mostra delle opere a Ospedaletti, Agosto 2024
+
+![photo_2024-08-18_18-58-30.jpg](photo/photo_2024-08-18_18-58-30.jpg)
 
 [logo]: https://images.opencollective.com/artistideal/cac7ce0/logo/256.png?height=64
